@@ -1,0 +1,22 @@
+{
+  "name": "p5-quiz-visualizer",
+  "version": "1.0.0",
+  "description": "A quiz system using p5.js that generates animated visuals based on students' scores.",
+  "main": "src/sketch.js",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo 'Build step can be added here'"
+  },
+  "dependencies": {
+    "p5": "^1.4.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "p5.js",
+    "quiz",
+    "visualization",
+    "education"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
